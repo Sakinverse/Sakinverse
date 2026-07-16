@@ -19,7 +19,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="sakin-ahammed-711a79422"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/sakin-ahammed-711a79422/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.facebook.com/saaakeeeen" target="_blank">
 <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="48" height="48"/>
 </a>
