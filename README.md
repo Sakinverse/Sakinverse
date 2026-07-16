@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Sakin Ahammed
 
-<!--
-**Sakinverse/Sakinverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning MERN Stack
+- 💼 Working on Web Development
+- 📫 Email: sakinahammed720@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[LinkedIn](https://linkedin.com/in/sakin-ahammed-711a79422)
+[Facebook](https://facebook.com/saaakeeeen)
+
+## Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,vscode,figma," />
+</p>
+
+![](https://komarev.com/ghpvc/?username=Sakinverse&label=Profile%20views)
